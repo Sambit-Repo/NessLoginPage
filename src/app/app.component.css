@@ -1,0 +1,22 @@
+input[type=text],input[type=password]
+{
+    
+    text-align: left;
+    width: 20%;
+    padding: 8px 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #B3A9A9;
+    box-sizing: border-box;
+    border-color: rgb(134, 52, 68)
+}
+input[type=submit],input[type=reset]
+{
+padding: 8px 12px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #B3A9A9;
+box-sizing: border-box;
+width: 10%;
+border-color: rgb(121, 3, 26)
+}
